@@ -1,0 +1,2 @@
+#!/BIN/BASH
+shell basics
