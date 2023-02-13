@@ -1,2 +1,2 @@
-£!/bin/bash
-cat 
+!/bin/bash
+echo 'Hello World' 
